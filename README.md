@@ -8,6 +8,7 @@ Add your details after the details of the previous student.
         <img class="pimg" src="https://avatars.githubusercontent.com/<github username>" >
         <h2>Name</h2>
         <h2>Roll No</h2>
+        <h2>Discord ID</h2>
     </div>
 ```
 ### For Example:
@@ -16,6 +17,7 @@ Add your details after the details of the previous student.
         <img class="pimg" src="https://avatars.githubusercontent.com/shashwat-mittal" >
         <h2>Shashwat Mittal</h2>
         <h2>IIT2020157</h2>
+        <h2>Shashwat#9311</h2>
     </div>
 ```    
     
