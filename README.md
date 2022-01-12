@@ -1,8 +1,20 @@
-# FOSS-APK-MONTH-BRANCHES
-Welcome to this new repository freshers, here you will be completing your task-2 of FOSS workshop.
+Welcome Guys & Gals, to the branch <b>subtask1</b>. Here, you will be completing your Subtask-1.
+<hr>
 
-We have divided the task-2️ into two subtasks and the points distribution will be this 
-- 20 points for subtask-1
-- 10 points for subatsk-2
+## Sub-Task 1
+In this branch you will find an html file named <b>participants.html</b>. In that file, you have to add github avatar link, Name and Roll No.
+Template to be added:
+    <div class="data">
+        <img class="pimg" src="https://avatars.githubusercontent.com/<github username>" >
+        <h2>Name</h2>
+        <h2>Roll No</h2>
+    </div>
 
-Now head over to the `subtask1` branch of this repo and complete the task as instructed in the `README.md` file.
+Now while doing this subtask, you will be facing Merge Conflicts, and hence will be asked again & again, to solve merge conflicts, until your PR is merged.
+Also, you can find some sample entries in the text file for your Reference.
+
+## Format of Pull Request
+
+## What to do after your PR is merged?
+Once your PR is merged, give yourself another pat on your back, for completing Subtask-1, and proceed to the branch <b>Subtask-2</b>, for further instructions.
+
