@@ -7,7 +7,13 @@ In this branch you will find a folder named Omicron_Batch. In that folder, you h
 - 2 reasons why do you like Him or Her
 
 <hr>
-A sample file is already present in the folder.
-<hr>
+A sample file is already present in the folder for your help.
+
+## Pull Request template for subtask2.
+
+### Issue: 2
+
+![image](https://user-images.githubusercontent.com/75938293/149147380-2d79a3df-b91a-4d8d-b86b-f89875690a54.png)
+
 ## What to do after your PR is merged?
 Once your PR is merged, give yourself another pat on your back,and wait for your PR to be merged and enjoy a drink🍻.
