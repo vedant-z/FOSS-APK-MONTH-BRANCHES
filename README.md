@@ -1,2 +1,8 @@
 # FOSS-APK-MONTH-BRANCHES
-A FOSS task repository for apk month students. 
+Welcome to this new repository freshers, here you will be completing your task-2 of FOSS workshop.
+
+We have divided the task-2️ into two subtasks and the points distribution will be this 
+- 20 points for subtask-1
+- 10 points for subatsk-2
+
+Now head over to the `subtask1` branch of this repo and complete the task as instructed in the `README.md` file.
