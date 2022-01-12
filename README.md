@@ -26,4 +26,3 @@ Also, you can find some sample entries in the text file for your Reference.
 
 ## What to do after your PR is merged?
 Once your PR is merged, give yourself another pat on your back, for completing Subtask-1, and proceed to the branch <b>subtask2</b>, for further instructions.
-
